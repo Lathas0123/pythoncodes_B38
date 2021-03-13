@@ -18,4 +18,8 @@ print(name2)
 name3="""rishik"""
 print(name3)
 
+#this is comment.
+if 5>3:
+    print("5 is greater than 3")
+
 
