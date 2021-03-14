@@ -3,10 +3,12 @@ x=3
 y=4
 z=x+y
 print(z)
+print(type(x))
 
 
 name="latha"
 print(name)
+print(type(name))
 
 last_name="suma"
 print(last_name)
