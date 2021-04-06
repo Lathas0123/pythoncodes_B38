@@ -1,5 +1,6 @@
 
-x=3
+ """
+ x=3
 y=4
 z=x+y
 print(z)
@@ -30,4 +31,7 @@ z1 = 35.9
 print(type(x1))
 print(type(y1))
 print(type(z1))
-
+"""
+a=int(input('Enter number a:'))
+b=int(input('Enter number b:'))
+print('the adddition of and b is',(a+b))
